@@ -4,4 +4,4 @@ This website is to provide a focal point for cycling activites for those people 
 
 Midland Wheelers will interest cyclists who enjoy social, keep-fit and leisure activities, in a friendly and welcoming environment. 
 
-![Home Page Mockup](https://github.com/...mockup.pdf)
+![Home Page Mockup](https://github.com/tomf247/ProjectOne/blob/main/assets/other/mockup.pdf)
