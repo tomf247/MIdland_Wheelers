@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Nunito+Sans:wght@300&display=swap");
+
+/* Initial page settings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  
+  background-image: url(img/bg.jpg);
+  /*background-color:#444; */
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+
+
+/* Create a Navbar */
+
+.navbar {
+  /* max-width: 100%; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  margin: 0px auto;
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,221,233,1) 100%);
+  /* background-color: rgba(128, 0, 70, 0.705);
+  background-image: url(img/bg.jpg); */
+}
