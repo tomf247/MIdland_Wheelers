@@ -110,7 +110,6 @@ section {
     text-decoration: none;
   }
   
-  
   .logo {
     font-family: Montserrat, sans;
     font-weight: 500;
@@ -120,17 +119,15 @@ section {
   
   .menu {
     display: inline-flex;
-    /*gap: 1em; */
+    margin-top: 4.2%;
     font-family: Montserrat, sans;
     font-size: large;
-    
   }
   
   .menu li:hover {
-    /*background-color: #9b4c9e;*/
+    
     text-decoration: underline;
-    /* border-radius: 5px;
-    transition: 0.3s ease; */
+    
   }
   
   .menu li {
