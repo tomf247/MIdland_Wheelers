@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Nunito+Sans:wght@300&display=swap");
 
 /* Initial page settings */
+
 * {
   margin: 0;
   padding: 0;
@@ -88,14 +89,11 @@ section {
 
 }
 
-.bg-primary h2,
-.bg-dark h2 {
+.bg-primary h2, .bg-dark h2 {
   color: #f3eed9;
 }
 
-/* Create a Navbar */
-
-.navbar {
+  .navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -104,7 +102,7 @@ section {
     background: rgb(238,174,202);
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,221,233,1) 100%);
   }
-  
+
   .nav-links a {
     color: #333;
     text-decoration: none;
@@ -119,15 +117,12 @@ section {
   
   .menu {
     display: inline-flex;
-    margin-top: 4.2%;
     font-family: Montserrat, sans;
     font-size: large;
   }
   
   .menu li:hover {
-    
     text-decoration: underline;
-    
   }
   
   .menu li {
@@ -159,9 +154,9 @@ section {
       display: none;
       position: absolute; 
       background-color: rgb(178, 205, 223);
+      top: 80px;
       right: 0;
       left: 0;
-      /*top: 10;*/
       text-align: center;
       padding: 16px 0;
     }
@@ -216,8 +211,9 @@ section {
     margin: 25%;
     padding: 5%;
     color: #3a3a3a;
-  } 
-/* Gallery Grid with column and row spanning, set for 6 images */
+  }
+
+  /* Gallery Grid with column and row spanning, set for 6 images */
 
   .gallery {
     display: grid;
@@ -276,7 +272,7 @@ section {
     grid-row-end: 9;
   }
 
-  #mlist {
+  .mlist {
     font-size:large;
     display: inline;
   }
