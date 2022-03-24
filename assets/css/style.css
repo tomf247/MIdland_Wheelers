@@ -19,18 +19,108 @@ li {
   list-style: none;
 }
 
-
 /* Create a Navbar */
 
 .navbar {
-  /* max-width: 100%; */
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 15px;
-  margin: 0px auto;
-  background: rgb(238,174,202);
-  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,221,233,1) 100%);
-  /* background-color: rgba(128, 0, 70, 0.705);
-  background-image: url(img/bg.jpg); */
-}
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    margin: 0px auto;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,221,233,1) 100%);
+  }
+  
+  .nav-links a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  
+  .logo {
+    font-family: Montserrat, sans;
+    font-weight: 500;
+    font-size: xx-large;
+    text-transform: uppercase
+  }
+  
+  .menu {
+    display: inline-flex;
+    /*gap: 1em; */
+    font-family: Montserrat, sans;
+    font-size: large;
+    
+  }
+  
+  .menu li:hover {
+    /*background-color: #9b4c9e;*/
+    text-decoration: underline;
+    /* border-radius: 5px;
+    transition: 0.3s ease; */
+  }
+  
+  .menu li {
+    padding: 5px 14px;
+  }
+  
+  /* Used as hamburger menu toggle*/
+  
+  input[type="checkbox"] {
+    display: none;
+  }
+  
+  .hamburger {
+    display: none;
+    font-size: 24px;
+    user-select: none;
+  }
+
+  #splash-image {
+    margin-top: 1em;
+    height: 600px;
+    width: 100%;
+    background: url(../images/splash-image.jpg) no-repeat center center;
+    background-size: contain; /* makes image auto-size for smaller resolutions */
+  }
+  
+  @media (max-width: 768px) {
+    .menu {
+      display: none;
+      position: absolute; 
+      background-color: rgb(178, 205, 223);
+      right: 0;
+      left: 0;
+      /*top: 10;*/
+      text-align: center;
+      padding: 16px 0;
+    }
+  
+    .menu li:hover {
+      display: inline-block;
+      background-color: #4c9e9e;
+      transition: 0.3s ease;
+    }
+  
+    .menu li + li {
+      margin-top: 12px;
+    }
+  
+    input[type="checkbox"]:checked ~ .menu {
+      display: block;
+    }
+  
+    .hamburger {
+      display: block;
+    }
+  
+    .dropdown {
+      left: 50%;
+      top: 30px;
+      transform: translateX(35%);
+    }
+  
+    .dropdown li:hover {
+      background-color: #4c9e9e;
+    }
+    
+  }
