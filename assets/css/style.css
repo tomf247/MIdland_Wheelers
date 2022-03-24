@@ -197,3 +197,25 @@ section {
     }
     
   }
+
+  footer {
+    height: 5%;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,221,233,1) 100%);
+  }
+  
+  .social-icons {
+    text-align: center;
+  }
+  
+  .social-icons > li {
+    display: inline-block;
+    letter-spacing: 4rem;
+  }
+  
+  .social-icons i {
+    font-size: 160%;
+    margin: 25%;
+    padding: 5%;
+    color: #3a3a3a;
+  } 
