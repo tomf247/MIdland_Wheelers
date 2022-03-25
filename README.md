@@ -11,15 +11,16 @@ With the opening of a new Greenway along the disused Athlone - Mullingar rail li
 ![Main Page](/docs/homepage.png "Main Page")
 
 # Planning
-### Initial Wireframe
+
+## Initial Wireframe
 
 ![Mockup](/docs/mockup.pdf "Mockup") This is the .pdf https://github.com/tomf247/ProjectOne/blob/main/docs/mockup.pdf
 
-### Purpose of the project
+## Purpose of the project
 
 The sites goal is to facilitate the coming-together of cycling individuals in the Athlone area for social, fitness and cycling activities.
 
-### User Stories
+## User Stories
 
 A visitor wishes to join a group of other cyclists for a fun-cycle. This information is available on the main page, showing where and when the cycle group meets.
 
@@ -29,7 +30,7 @@ A visitor is curious as to what sort of people they might meet in the cycle grou
 
 A visitor wishes to see what the cycle route looks like. Again via the Gallery link, there is a short video showcasing the route.
 
-### Features
+## Features
 
 - Navigation Bar
 
@@ -38,24 +39,23 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 
 ![Navigation Bar](/docs/navbar.png "Navigation Bar")   
 
-
 - Hero image
+    -- A visual image of cyclists on the greenway, pausing for a photograph. Shows clearly the activity and environment our members experience.
 
 ![Hero Image](/docs/heroimage.png "Hero Image") 
 
-    -- A visual image of cyclists on the greenway, pausing for a photograph. Shows clearly the activity and environment our members experience.
-
 - Ethos Section
+    -- Consisting of three columns explaining why we formed, where we meet and social gathering  outside of the cycle.
 
 ![Club Ethos](/docs/clubethos.png "Club Ethos")
 
-    -- Consisting of three columns explaining why we formed, where we meet and social gathering  outside of the cycle.
 
 - Events Section
 
 ![Events](/docs/events.png "Club Events")
 
-    -- Consisting of three columns explaining why we formed, where we meet and social gathering  outside of the cycle.
+    -- The visitor's attention is drawn to a list of planned events in the near future. 
+
 
 - Call to Action
 
