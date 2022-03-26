@@ -66,17 +66,17 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 ![Page Footer](/docs/footer.png "Page Footer")
 
 - Gallery
- -- The Gallery highlights the type of people a member will encounter. In addition it shows the cycling environment we cycle in. 
+ - The Gallery highlights the type of people a member will encounter. In addition it shows the cycling environment we cycle in. 
 
 ![Gallery](/docs/gallery.png "Gallery")
 
 - Video
- -- A showcase of the Greenway Trail. With inspiring photography and aerials, it is bound to catch the eye.
+ - A showcase of the Greenway Trail. With inspiring photography and aerials, it is bound to catch the eye.
 
 ![Video](/docs/greenwayvideo.png "Video")
 
 - Contact/Newsletter
- -- Provides a means for the visitor to leave feedback, ask questions or sign up to the newsletter..
+ - Provides a means for the visitor to leave feedback, ask questions or sign up to the newsletter..
 
 ![Contact](/docs/contact.png "Contact / News Letter")
 
@@ -85,15 +85,15 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 
 - Member Blog
 
- -- The experiences of the cycling pursuit, written by our members. Interesting, funny, sad or otherwise. If it's relevant to our pastime, it can be seen here.
+ - The experiences of the cycling pursuit, written by our members. Interesting, funny, sad or otherwise. If it's relevant to our pastime, it can be seen here.
 
  - Online Store
 
- -- Cycling gear, either sold directly to consumer or via affiliate link.
+ - Cycling gear, either sold directly to consumer or via affiliate link.
 
  - Enlarged Events Section
 
- -- To include more events and details, as well as links to events on other cycling trails.
+ - To include more events and details, as well as links to events on other cycling trails.
 
 
 # Testing
@@ -110,7 +110,7 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 
 ![Lighthouse](/docs/lighthouse-desktop-score.png "Lighthouse")
 
--- Browser Developer Tools
+- Browser Developer Tools
     - No erros in debug logs.
     - Site displayed correctly when using "Toggle Device Toolbar" and resizing the page.
 
@@ -134,7 +134,7 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 
 ![github-pages](/docs/github-pages.png "Github Pages")
 
-The full URL to the site is https://https://tomf247.github.io/ProjectOne/index.html
+The full URL to the site is https://tomf247.github.io/ProjectOne/index.html
 
 # Credits
 
