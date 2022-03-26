@@ -34,34 +34,34 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 
 - Navigation Bar
 
- -- This section includes the title and three links to the Home, Gallery and Contact pages.
- -- The Navigation Bar is consistent across all pages, giving the visitor a certain and consistent means to traverse the site.
+    - This section includes the title and three links to the Home, Gallery and Contact pages.
+    - The Navigation Bar is consistent across all pages, giving the visitor a certain and consistent means to traverse the site.
 
 ![Navigation Bar](/docs/navbar.png "Navigation Bar")   
 
 - Hero image
- -- A visual image of cyclists on the greenway, pausing for a photograph. Shows clearly the activity and environment our members experience.
+     - A visual image of cyclists on the greenway, pausing for a photograph. Shows clearly the activity and environment our members experience.
 
 ![Hero Image](/docs/heroimage.png "Hero Image") 
 
 - Ethos Section
- -- Consisting of three columns explaining why we formed, where we meet and social gathering  outside of the cycle.
+    - Consisting of three columns explaining why we formed, where we meet and social gathering  outside of the cycle.
 
 ![Club Ethos](/docs/clubethos.png "Club Ethos")
 
 
 - Events Section
- -- The visitor's attention is drawn to a list of planned events in the near future. 
+    - The visitor's attention is drawn to a list of planned events in the near future. 
 
 ![Events](/docs/events.png "Club Events")
 
 - Call to Action
- -- Focuses on the benefits of becoming a member such as health, fitness, outdoor activity and social gathering.
+    - Focuses on the benefits of becoming a member such as health, fitness, outdoor activity and social gathering.
 
 ![Call to action](/docs/calltoaction.png "Call to action")
 
 - Page Footer
--- Links to our social media accounts allowing visitor to reach us in a manner familiar to them.
+    - Links to our social media accounts allowing visitor to reach us in a manner familiar to them.
 
 ![Page Footer](/docs/footer.png "Page Footer")
 
@@ -73,9 +73,26 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 - Video
  -- A showcase of the Greenway Trail. With inspiring photography and aerials, it is bound to catch the eye.
 
-![Video](/docs/galleryvideo.png "Video")
+![Video](/docs/greenwayvideo.png "Video")
 
 - Contact/Newsletter
  -- Provides a means for the visitor to leave feedback, ask questions or sign up to the newsletter..
 
 ![Contact](/docs/contact.png "Contact / News Letter")
+
+
+## Future Features
+
+- Member Blog
+
+ -- The experiences of the cycling pursuit, written by our members. Interesting, funny, sad or otherwise. If it's relevant to our pastime, it can be seen here.
+
+ - Online Store
+
+ -- Cycling gear, either sold directly to consumer or via affiliate link.
+
+ - Enlarged Events Section
+
+ -- To include more events and details, as well as links to events on other cycling trails.
+
+
