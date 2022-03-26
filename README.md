@@ -14,11 +14,11 @@ With the opening of a new Greenway along the disused Athlone - Mullingar rail li
 
 ## Initial Wireframe
 
-![Mockup](/docs/mockup.pdf "Mockup") This is the .pdf https://github.com/tomf247/ProjectOne/blob/main/docs/mockup.pdf
+PDF files are not viewable inline. It can be viewed at https://github.com/tomf247/ProjectOne/blob/main/docs/mockup.pdf
 
 ## Purpose of the project
 
-The sites goal is to facilitate the coming-together of cycling individuals in the Athlone area for social, fitness and cycling activities.
+The site's goal is to facilitate the coming-together of cycling individuals in the Athlone area for social, fitness and cycling activities.
 
 ## User Stories
 
@@ -66,17 +66,17 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 ![Page Footer](/docs/footer.png "Page Footer")
 
 - Gallery
- - The Gallery highlights the type of people a member will encounter. In addition it shows the cycling environment we cycle in. 
+    - The Gallery highlights the type of people a member will encounter. In addition it shows the cycling environment we cycle in. 
 
 ![Gallery](/docs/gallery.png "Gallery")
 
 - Video
- - A showcase of the Greenway Trail. With inspiring photography and aerials, it is bound to catch the eye.
+    - A showcase of the Greenway Trail. With inspiring photography and aerials, it is bound to catch the eye.
 
 ![Video](/docs/greenwayvideo.png "Video")
 
 - Contact/Newsletter
- - Provides a means for the visitor to leave feedback, ask questions or sign up to the newsletter..
+    - Provides a means for the visitor to leave feedback, ask questions or sign up to the newsletter..
 
 ![Contact](/docs/contact.png "Contact / News Letter")
 
@@ -85,15 +85,15 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 
 - Member Blog
 
- - The experiences of the cycling pursuit, written by our members. Interesting, funny, sad or otherwise. If it's relevant to our pastime, it can be seen here.
+    - The experiences of the cycling pursuit, written by our members. Interesting, funny, sad or otherwise. If it's relevant to our pastime, it can be seen here.
 
- - Online Store
+    - Online Store
 
- - Cycling gear, either sold directly to consumer or via affiliate link.
+    - Cycling gear, either sold directly to consumer or via affiliate link.
 
- - Enlarged Events Section
+    - Enlarged Events Section
 
- - To include more events and details, as well as links to events on other cycling trails.
+    - To include more events and details, as well as links to events on other cycling trails.
 
 
 # Testing
@@ -163,6 +163,3 @@ The full URL to the site is https://tomf247.github.io/ProjectOne/index.html
 - There were moments of terror and despair putting this together, and I often felt like giving up. What finally got me to actually start liking what I was doing, was to allow more time to plan and once I had a good germ planted, to implement just one feature at a time. It finally started to come together, and at that point I began to enjoy the little tricky things like syntax, sizing etc. It became enjoyable.
 - That said, I think there are numerous improvements that can be made to this code, and things I would do differently now that I'm a bit wiser.
 - I now have an appreciation for the scope of a project. Throwing a few lines of code at something won't really create anything that lasts. I see the value of thorough, logical and functional design.
-
-
-
