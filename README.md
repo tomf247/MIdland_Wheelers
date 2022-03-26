@@ -105,3 +105,59 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 - CSS
     - The CSS validates without error at w3.org ![Valid](/docs/vcss-blue.gif "CSS is valid")
 
+- Lighthouse
+    - The desktop scores on Lighthouse are good. Testing for mobile, while still good, performance was lower, and this is due to image sizes not being adequately sized for their purpose. This will be made a priority on the bug fix list.
+
+![Lighthouse](/docs/lighthouse-desktop-score.png "Lighthouse")
+
+- Techsini
+    - Page layouts displayed correctly on mobile, tablet and desktop. 
+
+- Unfixed Bugs
+    - I am dis-satisfied with the gallery resize strategy. Insted of having the images shrink as they currently are, I'd prefer a stacking approach in hindsight.
+
+# Supported Screens and Browsers
+
+- Desktop: Recent versions of Chrome (or Chromium-based), Safari , Firefox , Edge.
+- Tablet: Tested on Chrome, Firefox and Edge. (Android)
+- Mobile: Tested on Chrome, Firefox and Edge. (Android) as well as Safari (IOS).
+
+# Deployment
+
+- All assets were stored and manipulated in Gitpod.
+- As sections were completed GIT was used to store the code in a Github repository
+- From the Github repository I used the repository settings item to scroll down to the Github Pages section and completed the publish procedure as shown in the image below.
+
+![github-pages](/docs/github-pages.png "Github Pages")
+
+The full URL to the site is https://https://tomf247.github.io/ProjectOne/index.html
+
+# Credits
+
+- Inspiration from Code Institute LRM, Kevin Powell at YouTube (https://www.youtube.com/kepowob).
+- Code snippets and how to's from w3schools.org, MTN, Google search, Stack Overflow, but little by way of Copy/Paste, and this would be clear on some erroneous code (on my part) that I know is still in there.
+- The "hamburger hack" is not my own
+, but don't know where attribution lies, as it seems to be pervasive on the web.
+- Gertting columns to stack on screen resize was learned by the videos I saw from Kevin Powell, I didn't copy code, I just observed how he approached it.
+
+# Content
+
+- Unsplash.com for royalty-free stock images.
+- Youtube.com for the permitted embedded share of a video clip.
+- Fontawsome.com for iconography.
+- Images from my own collection.
+
+# Typography and Color Scheme
+
+- The primary font face is Nunito Sans.
+- The headline font is Montserrat.
+- Both are royalty-free web fonts available from https://fonts.google.com
+
+# Closing thoughts
+
+- There were moments of terror and despair putting this together, and I often felt like giving up. What finally got me to actually start liking what I was doing, was to allow more time to plan and once I had a good germ planted, to implement just one feature at a time. It finally started to come together, and at that point I began to enjoy the little tricky things like syntax, sizing etc. It became enjoyable.
+- That said, I think there are numerous improvements that can be made to this code, and things I would do differently now that I'm a bit wiser.
+- I now have an appreciation for the scope of a project. Throwing a few lines of code at something won't really create anything that lasts. I see the value of thorough, logical and functional design.
+
+
+
