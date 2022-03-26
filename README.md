@@ -142,6 +142,7 @@ The full URL to the site is https://https://tomf247.github.io/ProjectOne/index.h
 - Code snippets and how to's from w3schools.org, MTN, Google search, Stack Overflow, but little by way of Copy/Paste, and this would be clear on some erroneous code (on my part) that I know is still in there.
 - The "hamburger hack" is not my own
 , but don't know where attribution lies, as it seems to be pervasive on the web.
+- Social Media icon coding from CI LRM
 - Gertting columns to stack on screen resize was learned by the videos I saw from Kevin Powell, I didn't copy code, I just observed how he approached it.
 
 # Content
