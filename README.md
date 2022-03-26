@@ -110,6 +110,10 @@ A visitor wishes to see what the cycle route looks like. Again via the Gallery l
 
 ![Lighthouse](/docs/lighthouse-desktop-score.png "Lighthouse")
 
+-- Browser Developer Tools
+    - No erros in debug logs.
+    - Site displayed correctly when using "Toggle Device Toolbar" and resizing the page.
+
 - Techsini
     - Page layouts displayed correctly on mobile, tablet and desktop. 
 
